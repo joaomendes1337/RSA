@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12bbfa44-4fee-4cdd-ac28-58e2e6da662a" name="Default Changelist" comment="" />
+    <list default="true" id="12bbfa44-4fee-4cdd-ac28-58e2e6da662a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RSA/version_0/testClasses/testGenerateKeys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/version_0/Classes/Encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/version_0/Classes/Encrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/version_0/Classes/GenerateKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/version_0/Classes/GenerateKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/version_0/testClasses/testEncript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/version_0/testClasses/testEncript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/version_0/testClasses/testGenerateKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/version_0/testClasses/testGenerateKeys.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,22 +58,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2392" />
+          <entry key="java" value="3642" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2392" />
+          <entry key="JAVA" value="3642" />
         </counts>
       </usages-collector>
     </session>
@@ -75,36 +83,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/version_0/Classes/Encrypt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-191">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="166">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Encrypt#0;class#Encrypt#0" />
-                <element signature="method#Encrypt#0;class#Encrypt#0" />
                 <element signature="method#Encrypt#2;class#Encrypt#0" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1202#1203#0" expanded="true" />
+                <element signature="method#getCharForNumber#0;class#Encrypt#0" />
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#1554#1555#0" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
+                <element signature="e#1706#1707#0" expanded="true" />
+                <element signature="e#1735#1736#0" expanded="true" />
+                <element signature="e#1630#1631#0" expanded="true" />
+                <element signature="e#1668#1669#0" expanded="true" />
+                <element signature="e#1717#1718#0" expanded="true" />
+                <element signature="e#1749#1750#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/version_0/Classes/Decrypt.java">
+        <entry file="file://$PROJECT_DIR$/src/version_0/Classes/GenerateKeys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-23">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="method#GenerateKeys#0;class#GenerateKeys#0" />
+                <element signature="method#generateKeys#0;class#GenerateKeys#0" />
+                <element signature="method#is_prime#0;class#GenerateKeys#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/version_0/testClasses/testEncript.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="230">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,25 +142,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/version_0/testClasses/testGenerateKeys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/version_0/Classes/GenerateKeys.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="method#GenerateKeys#0;class#GenerateKeys#0" />
-                <element signature="method#generateKeys#0;class#GenerateKeys#0" />
-                <element signature="method#is_prime#0;class#GenerateKeys#0" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -162,10 +172,10 @@
         <option value="$PROJECT_DIR$/src/version_0/Encrypt.java" />
         <option value="$PROJECT_DIR$/src/version_0/RSA.java" />
         <option value="$PROJECT_DIR$/src/version_0/Classes/PrimeNumbers.java" />
-        <option value="$PROJECT_DIR$/src/version_0/testClasses/testEncript.java" />
-        <option value="$PROJECT_DIR$/src/version_0/Classes/GenerateKeys.java" />
         <option value="$PROJECT_DIR$/src/version_0/testClasses/testGenerateKeys.java" />
+        <option value="$PROJECT_DIR$/src/version_0/Classes/GenerateKeys.java" />
         <option value="$PROJECT_DIR$/src/version_0/Classes/Encrypt.java" />
+        <option value="$PROJECT_DIR$/src/version_0/testClasses/testEncript.java" />
       </list>
     </option>
   </component>
@@ -175,7 +185,29 @@
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>StringConcatenationInLoops</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -190,37 +222,6 @@
             <path>
               <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
               <item name="RSA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RSA" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RSA" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RSA" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RSA" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="RSA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RSA" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="RSA" type="462c0819:PsiDirectoryNode" />
-              <item name="version_0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
@@ -247,15 +248,6 @@
               <item name="version_0" type="462c0819:PsiDirectoryNode" />
               <item name="testClasses" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="RSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -263,7 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536595150464" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536600146263" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -366,6 +358,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26666668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -375,16 +368,16 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4920635" weight="0.32861635" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.48809522" weight="0.32861635" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936508" visible="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49126983" visible="true" weight="0.32861635" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4936508" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49920633" weight="0.32861635" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5063492" side_tool="true" visible="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5087302" side_tool="true" visible="true" weight="0.32861635" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -399,6 +392,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/version_0/testClasses/testEncript.java</url>
+          <line>9</line>
+          <properties field="encrypt" class="version_0.testClasses.testEncript" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/version_0/Classes/asd.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -410,10 +415,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/version_0/Classes/Decrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2850">
-          <caret line="421" column="16" selection-start-line="421" selection-start-column="16" selection-end-line="421" selection-end-column="16" />
+        <state relative-caret-position="62">
+          <caret line="639" column="21" selection-start-line="639" selection-start-column="21" selection-end-line="639" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -426,7 +438,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/version_0/Classes/GenerateKeys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="-23">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="method#GenerateKeys#0;class#GenerateKeys#0" />
@@ -436,41 +448,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/version_0/Classes/Encrypt.java">
+    <entry file="file://$PROJECT_DIR$/src/version_0/testClasses/testGenerateKeys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Encrypt#0;class#Encrypt#0" />
-            <element signature="method#Encrypt#0;class#Encrypt#0" />
-            <element signature="method#Encrypt#2;class#Encrypt#0" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="161">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/version_0/Classes/Decrypt.java">
+    <entry file="file://$PROJECT_DIR$/src/version_0/Classes/Encrypt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="166">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Encrypt#0;class#Encrypt#0" />
+            <element signature="method#Encrypt#2;class#Encrypt#0" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="method#getCharForNumber#0;class#Encrypt#0" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1706#1707#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+            <element signature="e#1630#1631#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+            <element signature="e#1717#1718#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/version_0/testClasses/testEncript.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/version_0/testClasses/testGenerateKeys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="230">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

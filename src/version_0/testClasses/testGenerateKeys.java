@@ -7,8 +7,8 @@ public class testGenerateKeys {
         //GenerateKeys keyGenerator = new GenerateKeys( 3 );
         //System.out.println(keyGenerator.getP_key());
 
-        GenerateKeys key = new GenerateKeys( 1024 );
-        System.out.println(key.getQ_key());
-        System.out.println(key.getP_key());
+
+
     }
+
 }
